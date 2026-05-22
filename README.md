@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @favour-Onyinye
 - 👀 I’m interested in ...learning about coding and designing
 - 🌱 I’m currently learning ... ux/ui design
-- 💞️ I’m looking to collaborate on ...figma, adobe and github
+- 💞️ I’m looking to collaborate on ... Figma, Adobe, and GitHub
 - 📫 How to reach me ...anyalewechifavour1010@gmail.com
 - 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...i love art, designing and running
+- ⚡ Fun fact: ... I love art, designing, and running
 
 <!---
 favour-Onyinye/favour-Onyinye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
